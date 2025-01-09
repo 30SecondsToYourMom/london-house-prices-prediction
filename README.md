@@ -15,4 +15,4 @@ This repository contains a data analysis and machine learning project focused on
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/london-house-prices-prediction.git
+   git clone https://github.com/30SecondsToYourMom/london-house-prices-prediction.git
